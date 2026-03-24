@@ -24,7 +24,7 @@ El modelo fue diseñado utilizando una arquitectura de red neuronal convoluciona
 ### Despliegue del modelo
 Tras el entrenamiento, el modelo fue convertido al formato TensorFlow Lite para optimizar su uso en dispositivos móviles. Dado que el modelo pesaba 600 MB, superando el límite de 200 MB para aplicaciones Android, se optó por desplegarlo en la nube y crear una API usando Flask. Esta API permite a la aplicación Android enviar imágenes al servidor, donde el modelo procesa la predicción y envía los resultados de vuelta a la aplicación en tiempo real. 
 
-![G](https://github.com/Hualian01/ProyectoVA/blob/main/img)
+![G](https://github.com/Hualian01/ProyectoVA/blob/main/img/imagen1.png)
 
 ![Z](https://github.com/Hualian01/ProyectoVA/blob/main/img/imagen2.png)
 
