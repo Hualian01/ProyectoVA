@@ -47,5 +47,5 @@ Este proyecto logró el desarrollo de un modelo de clasificación de mariposas, 
 Aunque la aplicación es funcional, existen limitaciones relacionadas con la dependencia de la conexión a internet y la calidad de las imágenes. En futuros desarrollos, sería beneficioso explorar métodos de compresión para permitir la ejecución en dispositivos móviles o incorporar un módulo de preprocesamiento de imágenes.
 
 ## Autor
-Rebeca Mendoza, <b>[LinkedIn](https://www.linkedin.com/in/rebeca-mendoza-240401375/)</b>
+Rebeca Mendoza, <b>[LinkedIn](https://www.linkedin.com/in/rebeca-mendoza-240401375/)</b> y
 Enrique Vega, <b>[LinkedIn](https://www.linkedin.com/in/enrique-vega-pty14/)</b>
